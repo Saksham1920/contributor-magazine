@@ -29,7 +29,7 @@ export default [
   },
 {
         name: "Saksham Madan",
-        github_username: "",
+        github_username: "Saksham1920",
         title: "",
         facebook: "",
         twitter: "",
