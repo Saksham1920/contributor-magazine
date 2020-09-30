@@ -27,4 +27,11 @@ export default [
   	facebook: "",
   	twitter: "ssd_2002",
   },
+{
+        name: "Saksham Madan",
+        github_username: "",
+        title: "",
+        facebook: "",
+        twitter: "",
+  }
 ];
